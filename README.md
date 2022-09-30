@@ -24,7 +24,9 @@ which will setup an online machine for you:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rth/datascience_starter_course/master)
 
-Alternatively you can create a new conda environment which will be called
+Alternatively you can install conda via
+[miniforge](https://github.com/conda-forge/miniforge) or Anaconda. Then create
+a new conda environment which will be called
 `dsc` by default and whill contain all the packages required to run the
 notebooks:
 

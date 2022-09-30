@@ -13,10 +13,6 @@ This lecture is focused on the following concepts:
 7. Manage mixed data types in machine-learning pipeline;
 8. Fine tuning model by hyper-parameters search.
 
-## Additional material:
-
-Some intro slides: http://ogrisel.github.io/decks/2017_intro_sklearn
-
 ## Getting started
 
 In case that you have any issues, you click on the binder link below

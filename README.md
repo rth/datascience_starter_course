@@ -22,7 +22,7 @@ Some intro slides: http://ogrisel.github.io/decks/2017_intro_sklearn
 In case that you have any issues, you click on the binder link below
 which will setup an online machine for you:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rth/datascience_started_course/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rth/datascience_starter_course/master)
 
 Alternatively you can create a new conda environment which will be called
 `dsc` by default and whill contain all the packages required to run the
